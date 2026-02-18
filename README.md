@@ -62,4 +62,8 @@ Linux, okuyarak değil **yaparak öğrenilir.**
 ---
 
 > Linux bilmek bir komut bilgisi değil, düşünme biçimidir.
+---
+
+⭐ Eğer repo işine yaradıysa yıldız vermeyi unutma.
+Bu, daha fazla kişinin Linux öğrenmesine yardımcı olur.
 
