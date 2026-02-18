@@ -1,4 +1,13 @@
 # Sıfırdan Uygulamalı Linux
+👉 Başlamak için: [START_HERE.md](START_HERE.md)
+
+📘 Dersler:
+- [01 — Terminal Temelleri](lessons/01-terminal-temelleri.md)
+- [02 — Klasörler Arası Gezinme](lessons/02-klasorler-arasi-gezinme.md)
+
+🧪 Görevler:
+- [Hafta 1 Görevleri](tasks/week-01.md)
+
 
 Bu repo, daha önce hiç Linux kullanmamış birinin terminali korkmadan kullanabilmesi için hazırlanmıştır.
 
