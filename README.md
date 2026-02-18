@@ -4,6 +4,8 @@
 📘 Dersler:
 - [01 — Terminal Temelleri](lessons/01-terminal-temelleri.md)
 - [02 — Klasörler Arası Gezinme](lessons/02-klasorler-arasi-gezinme.md)
+- [03 — Dosya ve Klasör İşlemleri](lessons/03-dosya-klasor-islemleri.md)
+- [04 — Yetkiler (chmod & chown)](lessons/04-yetkiler-chmod-chown.md)
 
 🧪 Görevler:
 - [Hafta 1 Görevleri](tasks/week-01.md)
